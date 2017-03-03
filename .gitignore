@@ -1,0 +1,9 @@
+# Files to ignore
+bin/
+build/
+*.class
+test.java
+.project
+.classpath
+.DS_Store
+.settings/
