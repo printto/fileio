@@ -5,8 +5,10 @@ The result of this program running on my laptop:
 
 |Task                                             |Time         |
 |:------------------------------------------------|------------:|
-|Copy a file byte-by-byte                         |0.972645 sec |
-|Copy a file using byte of size 1KB               |2.835020 sec |
-|Copy a file using byte of size 4KB               |0.002183 sec |
-|Copy a file using byte of size 64KB              |1.065630 sec |
-|Copy a file using BufferedRender and PrintWriter |5.932963 sec |
+|Copy a file byte-by-byte                         |4.892508 sec |
+|Copy a file using byte of size 1KB               |0.007198 sec |
+|Copy a file using byte of size 4KB               |0.003690 sec |
+|Copy a file using byte of size 64KB              |0.001555 sec |
+|Copy a file using BufferedRender and PrintWriter |0.062959 sec |
+
+## Explanation of Results
